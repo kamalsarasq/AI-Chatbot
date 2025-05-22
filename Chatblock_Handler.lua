@@ -1,3 +1,5 @@
+-- made by kamalsarasq
+
 -- // SERVICES //
 local TweenService = game:GetService("TweenService")
 
